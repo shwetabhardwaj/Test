@@ -1,1 +1,2 @@
 This is a new document to add to GIT.
+Changed before commit.
